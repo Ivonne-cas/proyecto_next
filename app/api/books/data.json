@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title":"MERN Stack",
+        "link":"https://m.media-amazon.com/images/I/516jKYpOAiS.jpg",
+        "img":"https://m.media-amazon.com/images/I/71o5YJxOIIL.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Beginning Node.js, Express & MongoDB Development ",
+        "link":"https://www.amazon.com/-/es/Greg-Lim/dp/9811480281/ref=sr_1_2?keywords=greg+lim&qid=1688837742&sprefix=greg+li%2Caps%2C208&sr=8-2",
+        "img":"https://m.media-amazon.com/images/I/418H3vYA2tL._SX404_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Beginning grapgql with React, NodeJS and Apollo",
+        "link":"https://www.amazon.com/-/es/Greg-Lim-ebook/dp/B0BXB97QRK/ref=sr_1_3?keywords=greg+lim&qid=1688837742&sprefix=greg+li%2Caps%2C208&sr=8-3",
+        "img":"https://m.media-amazon.com/images/I/41kSU4VzctL.jpg"
+    }
+
+]
